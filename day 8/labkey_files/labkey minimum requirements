@@ -1,0 +1,68 @@
+1. look into modalities being used
+
+2. Requested sample data plus protocol information
+	a Protocol meta-data/ workflow
+	b Assay Meta Data *ie Sample Tracking, 
+	c Process Meta Data
+	d Representative sample data
+
+3. Assess Sample data for minimum requirements
+	a. Subject ID
+	a. Visit ID
+	c. Sample ID
+	d. Cohort (where applicable)
+	e. Basic Demogrpahics 
+
+4. Design Labkey Study Architechture
+	a. Set up study
+	b. modality sub folders
+	c. add demographics table (if complete)
+	d. add sample tracking information (if complete)
+
+5. Review project architecture with study (iterative process)
+	a. study format
+	b. requirements
+	c. security model 
+
+6. Design Data Assays 
+	a. implement standards and best practices where available 
+	b. pre-made where possible
+	c. etablish workflow for publishing 
+
+7. Validation/Testing with admins (iterative)
+	a. import of sample data (QA/QC)
+	b. copy to study
+	c. set up views and queries 
+	d. remove assay designers accses to make changes (if IDP is designing)
+
+DEMO STUDY IS NOW PREPARED BASED ON THEIR OWN REPRESENTATIVE SAMPLE DATA
+
+8. Data producer reviews demo study
+	a. demo study is approved
+
+9. Study goes into production
+
+10. Training by IDP Assay Designer
+
+11. Upload of Import of Data
+
+12. Support and Troubleshooting
+	a. custom queries
+	b. integration
+	c. support assay designer in making changes (x)
+	d. account/access issues (x)
+	e. import issues
+	f. file reformatting
+
+Raw
+Processing
+Final 
+
+
+Goal
+For each assay type we have defined requirements for:
+	-protocol
+	-raw
+	-processed (intermediate valuable processed files)
+	-final versioned data sets
+

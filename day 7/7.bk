@@ -1,0 +1,41 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+open my $fh, "<", "input.csv" or die "can't open input: $!";
+my $count = 0;
+
+while(<$fh>){
+	my $line = $_;
+	chomp $line;
+	my $a=0;
+	my $b=0;
+	my @char1;
+	my @char2;
+	foreach ($line=~m/\[(.*?)\]/g){
+		print "$_\n";
+		## need to add a look behind to this regex
+		while (/(?=([a-z])([a-z])\g1)/g && $1 ne $2){
+			push(@char1,$1);
+			push(@char2,$2);
+			$a=1;
+			print "$1$2$1\n";
+		}
+	}
+	my @supernet = split(/\[.*?\]/, $line);
+	if ($a){
+		foreach my $l (@supernet){
+			print "$l\n";
+			foreach my $t (0..scalar @char1-1){
+				if ($l =~ m/($char2[$t]$char1[$t]$char2[$t])/g){
+					$b = 1;
+				}
+			}
+		}
+	}
+	if($b){
+		$count++;
+	}
+	print "\n\n";
+}
+print "$count\n";

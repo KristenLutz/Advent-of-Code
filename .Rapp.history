@@ -1,0 +1,344 @@
+Rtimes = read.csv("OCBN/MultiQuant/Lundbeck01_46-54_RT.txt")
+Rtimes = read.csv("OCBN/MultiQuant/Lundbeck01_46-54_RT.csv")
+Rtimes = read.csv("~/OCBN/MultiQuant/Lundbeck01_46-54_RT.csv")
+getwd()
+Rtimes = read.csv("~/Documents/OCBN/MultiQuant/Lundbeck01_46-54_RT.csv")
+Rtimes = read.csv("/Documents/OCBN/MultiQuant/Lundbeck01_46-54_RT.csv")
+Rtimes = read.csv("/Users/kristenlutz/Documents/OCBN/MultiQuant/Lundbeck01_46-54_RT.csv")
+Rtimes = read.csv("Lundbeck01_46-54_RT.csv")
+Rtimes = read.csv(Documents/Lundbeck01_46-54_RT.csv)
+Rtimes = read.csv("Documents/Lundbeck01_46-54_RT.csv")
+Rtimes
+Rtimes = read.csv("Documents/Lundbeck01_46-54_RT.csv")
+names(Rtimes)
+Rtimes = read.tsv("Documents/Lundbeck01_46-54_RT.csv")
+function (file, header = TRUE, sep = "\t",)
+Rtimes = read.table("Documents/Lundbeck01_46-54_RT.csv", sep="\t", header=TRUE)
+names(Rtimes)
+my grouping <- function (x, y){#
+    for (i in names(x))#
+        if(i = [:alnum:]*_L"]){#
+            print i#
+        }#
+}
+my grouping <- function (x, y){#
+    for (i in names(x))#
+            print i#
+        }#
+}
+my grouping <- function (x, y){#
+    for (i in names(x))#
+            return i#
+        }#
+}
+my grouping <- function (x, y){#
+    for (y in names(x))#
+            return(y)#
+        }#
+}
+grouping <- function (x, y){#
+    for (y in names(x))#
+            return(y)#
+        }#
+}
+grouping <- function (x, y){#
+    for (y in names(x))#
+            return(y)#
+}
+x -> grouping(Rtimes)
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+print rpIn
+print rpIn;
+rpIn
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+rpIn
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=" :", quote="", fill=TRUE, na.strings="");
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=" :", quote="", fill=TRUE, na.strings="");
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+rpIn
+rpIn[0][0]
+rpIn[1][1]
+rpIn[1][0]
+rpIn[1]
+rpIn[1][1]
+rpIn[1,1]
+split(rpIn[1,1], "=")
+split(rpIn[1,1], "=", drop)
+split(rpIn[1,1], "=", drop=FALSE)
+split(rpIn[1,1], =, drop=FALSE)
+strplit(rpIn[1,1], =, drop=FALSE)
+strsplit(rpIn[1,1], =, drop=FALSE)
+strsplit(rpIn[1,1], "=", drop=FALSE)
+strsplit(rpIn[1,1], "=")
+strsplit(rpIn[1,1], "=")[1]
+strsplit(rpIn[1,1], "=")[2]
+split(rpIn[1,1], "=")
+strsplit(rpIn[1,1], "=")
+c <- strsplit(rpIn[1,1], "=")
+c
+c[1]
+c[.5]
+unlist(c)
+c[1,1]
+c[1]
+c[0]
+c[2]
+rpIn[1,1]
+strSplit(rpIn[1,1],"=")
+strsplit(rpIn[1,1],"=")
+c <- strsplit(rpIn[1,1],"=")
+c(1)
+c(2)
+c(1,1)
+c[1]
+c[1.0]
+c[1,0]
+c[1]
+c <= strsplit(rpIn[1,1],"=")
+c <, c(strsplit(rpIn[1,1],"="))
+c <- c(strsplit(rpIn[1,1],"="))
+c[1]
+c = c(strsplit(rpIn[1,1],"="))
+c[1]
+c[2]
+unlist(strsplit(rpIn[1,1], "="))
+c <- unlist(strsplit(rpIn[1,1], "="))
+c[1]
+c[2]
+rpIn[1]
+rpIn[1,0]
+rpIn[1,1]
+rpIn[,1]
+rpIn[1,2]
+rpIn[1,1]
+rpIn[1,1..2]
+rpIn[1,2]
+rpIn[1,1]
+rpIn[1,2]
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");       ######### #
+	c <- unlist(strsplit(rpIn[1,1], "="));#
+	rpIn[1,1] = c[1];#
+	rpIn[1,2] = c[2];
+spIn
+rpIn
+rpIn[1,]
+rpIn[,1]
+gsub(";Version", "_", rpIn[,1])
+gsub(";Version", "_version", rpIn[,1])
+rpIn[,1] = gsub(";Version", "_version", rpIn[,1])#
+	rpIn[,1] = gsub(" ", "_", rpIn[,1])
+rpIn
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt.new",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote="", fill=TRUE, na.strings="");
+rpIn
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt.new",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote='"', fill=TRUE, na.strings="");
+rpIn
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt.new",  col.names=c("key", "val"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote='"', fill=TRUE, na.strings="");
+rpIn
+params<- list(inputPathUploadedFile = rpIn$val1[rpIn$name=="runDataUploadedFile"],#
+		inputPathValidated = rpIn$val1[rpIn$name=="runDataFile"],#
+		##a little strange.  AssayRunTSVData is the one we need to output to#
+		outputPath = rpIn$val3[rpIn$name=="runDataFile"],#
+		containerPath = rpIn$val1[rpIn$name=="containerPath"], #
+		runPropsOutputPath = rpIn$val1[rpIn$name=="transformedRunPropertiesFile"],#
+		sampleSetId = as.integer(rpIn$val1[rpIn$name=="sampleSet"]),#
+		probeSourceId = as.integer(rpIn$val1[rpIn$name=="probeSource"]),#
+		errorsFile = rpIn$val1[rpIn$name=="errorsFile"])
+params
+rpIn<- read.table("/Users/kristenlutz/Desktop/labkey files/IonTorrent Example/batch_analysis_results_2016-02-03 07-25/IND215_R1_BC9_145667___76e6fb1a-d9d6-4c65-b95e-3be26710d4be/Workflow_Settings/Analysis_Settings/analysis_settings.txt.new",  col.names=c("name", "val1", "val2", "val3"),              ##########
+		header=FALSE, check.names=FALSE,                                             ##  1  ##  #
+		stringsAsFactors=FALSE, sep=":", quote='"', fill=TRUE, na.strings="");
+inputPathValidated = rpIn$val1[rpIn$name=="runDataFile"]
+inputPathValidated
+coordinates <= c(0, 0#
+5, 0#
+5, 2#
+4, 2#
+4, 3#
+7, 3#
+7, 0#
+10, 0#
+10, -3#
+6, -3#
+6, -5#
+2, -5#
+2, -9#
+-2, -9#
+-2, -6#
+-4, -6#
+-4, -7#
+-3, -7#
+-3, -9#
+-7, -9#
+-7, -5#
+-11, -5#
+-11, -2#
+-13, -2#
+-13, -1#
+-17, -1#
+-17, 0#
+-14, 0#
+-14, 5#
+-18, 5#
+-18, 0#
+-21, 0#
+-21, -3#
+-20, -3#
+-20, -2#
+-16, -2#
+-16, -4#
+-18, -4#
+-18, -5#
+-14, -5#
+-14, -196#
+-19, -196#
+-19, -198#
+-65, -198#
+-65, -195#
+-66, -195#
+-66, -121#
+-68, -121#
+-68, -119#
+119, -119#
+119, -122#
+115, -122#
+115, -121#
+111, -121#
+111, -125#
+113, -125#
+113, -129#
+118, -129#
+118, -133#
+115, -133#
+115, -135#
+116, -135#
+116, -138#
+113, -138#
+113, -135#
+114, -135#
+114, -136#
+118, -136#
+118, -140#
+117, -140#
+117, -135#
+119, -135#
+119, -136#
+116, -136#
+116, -140#
+118, -140#
+118, -138#
+119, -138#
+119, -135#
+120, -135#
+120, -138#
+125, -138#
+125, -135#
+130, -135#
+130, -138#
+126, -138#
+126, -139#
+123, -139#
+123, -137#
+124, -137#
+124, -139#
+128, -139#
+128, -138#
+127, -138#
+127, -135#
+124, -135#
+124, -131#
+122, -131#
+122, -135#
+127, -135#
+127, -130#
+123, -130#
+123, -128#
+128, -128#
+128, -124#
+132, -124#
+132, -122#
+135, -122#
+135, -118#
+132, -118#
+132, -123#
+127, -123#
+127, -127#
+129, -127#
+129, -130#
+124, -130#
+124, -125#
+123, -125#
+123, -129#
+120, -129#
+120, -130#
+118, -130#
+118, -135#
+119, -135#
+119, -139#
+120, -139#
+120, -144#
+119, -144#
+119, -148#
+123, -148#
+123, -144#
+127, -144#
+127, -147#
+132, -147#
+132, -148#
+135, -148#
+135, -152#
+132, -152#
+132, -154#
+133, -154#
+133, -155#
+131, -155#
+131, -153#
+133, -153#
+133, -152#
+132, -152#
+132, -154#
+137, -154#
+137, -151#
+136, -151)
+getwd();
+setef(""/Users/kristenlutz/Projects/code_challenge/")
+;
+points <= read.csv("coordinates.txt")
+points = read.csv("coordinates.txt")
+points[1]
+points[1,1]
+points[1,0]
+prepend(points,"0, 0")
+append(points,"0, 0")
+push(points, "0, 0")
+points[[length(foo)+1]] = bar
+points[[length(foo)+1]] => bar
+plot(points)
+attach(points)
+plot(wt, mpg, main="Scatterplot Example", #
+  	xlab="Car Weight ", ylab="Miles Per Gallon ", pch=19)
+plot(wt, mpg, main="Scatterplot Example", #
+  	xlab="Car Weight ", ylab="Miles Per Gallon ", pch=19)

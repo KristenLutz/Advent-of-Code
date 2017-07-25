@@ -1,0 +1,881 @@
+value 29 goes to bot 7
+
+value 13 goes to bot 9
+
+value 47 goes to bot 21
+
+value 61 goes to bot 29
+
+value 37 goes to bot 37
+
+value 23 goes to bot 42
+
+value 2 goes to bot 44
+
+value 7 goes to bot 63
+
+value 43 goes to bot 76
+
+value 71 goes to bot 77
+
+value 67 goes to bot 88
+
+value 19 goes to bot 88
+
+full bots: 88
+bot 88 is now holding 19 and 67
+bot 88 gives low to bot 77 and high to bot 84
+
+full bots: 77
+bot 77 is now holding 19 and 71
+bot 77 gives low to bot 93 and high to bot 84
+
+full bots: 84
+bot 84 is now holding 67 and 71
+bot 84 gives low to bot 70 and high to bot 78
+
+value 5 goes to bot 92
+
+value 3 goes to bot 93
+
+full bots: 93
+bot 93 is now holding 3 and 19
+bot 93 gives low to bot 44 and high to bot 70
+
+full bots: 70 44
+bot 70 is now holding 19 and 67
+bot 70 gives low to bot 144 and high to bot 78
+
+full bots: 44 78
+bot 44 is now holding 2 and 3
+bot 44 gives low to bot 9 and high to bot 144
+
+full bots: 78 144 9
+bot 78 is now holding 67 and 71
+bot 78 gives low to bot 14 and high to bot 200
+
+full bots: 144 9
+bot 144 is now holding 3 and 19
+bot 144 gives low to bot 197 and high to bot 14
+
+full bots: 9 14
+bot 9 is now holding 2 and 13
+bot 9 gives low to bot 173 and high to bot 197
+
+full bots: 14 197
+bot 14 is now holding 19 and 67
+bot 14 gives low to bot 81 and high to bot 200
+
+full bots: 197 200
+bot 197 is now holding 3 and 13
+bot 197 gives low to bot 174 and high to bot 81
+
+full bots: 200 81
+bot 200 is now holding 67 and 71
+bot 200 gives low to bot 94 and high to bot 25
+
+full bots: 81
+bot 81 is now holding 13 and 19
+bot 81 gives low to bot 141 and high to bot 94
+
+full bots: 94
+bot 94 is now holding 19 and 67
+bot 94 gives low to bot 6 and high to bot 25
+
+full bots: 25
+bot 25 is now holding 67 and 71
+bot 25 gives low to bot 24 and high to bot 83
+
+value 73 goes to bot 109
+
+value 31 goes to bot 114
+
+value 11 goes to bot 165
+
+value 17 goes to bot 167
+
+value 41 goes to bot 173
+
+full bots: 173
+bot 173 is now holding 2 and 41
+bot 173 gives low to bot 177 and high to bot 174
+
+full bots: 174
+bot 174 is now holding 3 and 41
+bot 174 gives low to bot 132 and high to bot 141
+
+full bots: 141
+bot 141 is now holding 13 and 41
+bot 141 gives low to bot 170 and high to bot 6
+
+full bots: 6
+bot 6 is now holding 19 and 41
+bot 6 gives low to bot 5 and high to bot 24
+
+full bots: 24
+bot 24 is now holding 41 and 67
+bot 24 gives low to bot 85 and high to bot 83
+
+full bots: 83
+bot 83 is now holding 67 and 71
+bot 83 gives low to bot 199 and high to bot 135
+
+value 59 goes to bot 177
+
+full bots: 177
+bot 177 is now holding 2 and 59
+bot 177 gives low to bot 21 and high to bot 132
+
+full bots: 132 21
+bot 132 is now holding 3 and 59
+bot 132 gives low to bot 119 and high to bot 170
+
+full bots: 21 170
+bot 21 is now holding 2 and 47
+bot 21 gives low to bot 114 and high to bot 119
+
+full bots: 170 119 114
+bot 170 is now holding 13 and 59
+bot 170 gives low to bot 97 and high to bot 5
+
+full bots: 119 114 5
+bot 119 is now holding 3 and 47
+bot 119 gives low to bot 186 and high to bot 97
+
+full bots: 114 5 97
+bot 114 is now holding 2 and 31
+bot 114 gives low to bot 109 and high to bot 186
+
+full bots: 5 97 186 109
+bot 5 is now holding 19 and 59
+bot 5 gives low to bot 67 and high to bot 85
+
+full bots: 97 186 109 85
+bot 97 is now holding 13 and 47
+bot 97 gives low to bot 178 and high to bot 67
+
+full bots: 186 109 85 67
+bot 186 is now holding 3 and 31
+bot 186 gives low to bot 86 and high to bot 178
+
+full bots: 109 85 67 178
+bot 109 is now holding 2 and 73
+bot 109 gives low to bot 167 and high to bot 86
+
+full bots: 85 67 178 86 167
+bot 85 is now holding 41 and 59
+bot 85 gives low to bot 30 and high to bot 199
+
+full bots: 67 178 86 167 199
+bot 67 is now holding 19 and 47
+bot 67 gives low to bot 169 and high to bot 30
+
+full bots: 178 86 167 199 30
+bot 178 is now holding 13 and 31
+bot 178 gives low to bot 106 and high to bot 169
+
+full bots: 86 167 199 30 169
+bot 86 is now holding 3 and 73
+bot 86 gives low to bot 96 and high to bot 106
+
+full bots: 167 199 30 169 106
+bot 167 is now holding 2 and 17
+bot 167 gives low to bot 7 and high to bot 96
+
+full bots: 199 30 169 106 96 7
+bot 199 is now holding 59 and 67
+bot 199 gives low to bot 68 and high to bot 135
+
+full bots: 30 169 106 96 7 135
+bot 30 is now holding 41 and 47
+bot 30 gives low to bot 159 and high to bot 68
+
+full bots: 169 106 96 7 135 68
+bot 169 is now holding 19 and 31
+bot 169 gives low to bot 99 and high to bot 159
+
+full bots: 106 96 7 135 68 159
+bot 106 is now holding 13 and 73
+bot 106 gives low to bot 155 and high to bot 99
+
+full bots: 96 7 135 68 159 99
+bot 96 is now holding 3 and 17
+bot 96 gives low to bot 80 and high to bot 155
+
+full bots: 7 135 68 159 99 155
+bot 7 is now holding 2 and 29
+bot 7 gives low to bot 76 and high to bot 80
+
+full bots: 135 68 159 99 155 80 76
+bot 135 is now holding 67 and 71
+bot 135 gives low to bot 87 and high to bot 111
+
+full bots: 68 159 99 155 80 76
+bot 68 is now holding 47 and 59
+bot 68 gives low to bot 23 and high to bot 87
+
+full bots: 159 99 155 80 76 87
+bot 159 is now holding 31 and 41
+bot 159 gives low to bot 201 and high to bot 23
+
+full bots: 99 155 80 76 87 23
+bot 99 is now holding 19 and 73
+bot 99 gives low to bot 32 and high to bot 201
+
+full bots: 155 80 76 87 23 201
+bot 155 is now holding 13 and 17
+bot 155 gives low to bot 191 and high to bot 32
+
+full bots: 80 76 87 23 201 32
+bot 80 is now holding 3 and 29
+bot 80 gives low to bot 41 and high to bot 191
+
+full bots: 76 87 23 201 32 191
+bot 76 is now holding 2 and 43
+bot 76 gives low to bot 165 and high to bot 41
+
+full bots: 87 23 201 32 191 41 165
+bot 87 is now holding 59 and 67
+bot 87 gives low to bot 171 and high to bot 111
+
+full bots: 23 201 32 191 41 165 111
+bot 23 is now holding 41 and 47
+bot 23 gives low to bot 198 and high to bot 171
+
+full bots: 201 32 191 41 165 111 171
+bot 201 is now holding 31 and 73
+bot 201 gives low to bot 206 and high to bot 198
+
+full bots: 32 191 41 165 111 171 198
+bot 32 is now holding 17 and 19
+bot 32 gives low to bot 154 and high to bot 206
+
+full bots: 191 41 165 111 171 198 206
+bot 191 is now holding 13 and 29
+bot 191 gives low to bot 192 and high to bot 154
+
+full bots: 41 165 111 171 198 206 154
+bot 41 is now holding 3 and 43
+bot 41 gives low to bot 196 and high to bot 192
+
+full bots: 165 111 171 198 206 154 192
+bot 165 is now holding 2 and 11
+bot 165 gives low to bot 63 and high to bot 196
+
+full bots: 111 171 198 206 154 192 196 63
+bot 111 is now holding 67 and 71
+bot 111 gives low to bot 202 and high to bot 184
+
+full bots: 171 198 206 154 192 196 63
+bot 171 is now holding 47 and 59
+bot 171 gives low to bot 17 and high to bot 202
+
+full bots: 198 206 154 192 196 63 202
+bot 198 is now holding 41 and 73
+bot 198 gives low to bot 43 and high to bot 17
+
+full bots: 206 154 192 196 63 202 17
+bot 206 is now holding 19 and 31
+bot 206 gives low to bot 12 and high to bot 43
+
+full bots: 154 192 196 63 202 17 43
+bot 154 is now holding 17 and 29
+bot 154 gives low to bot 51 and high to bot 12
+
+full bots: 192 196 63 202 17 43 12
+bot 192 is now holding 13 and 43
+bot 192 gives low to bot 140 and high to bot 51
+
+full bots: 196 63 202 17 43 12 51
+bot 196 is now holding 3 and 11
+bot 196 gives low to bot 74 and high to bot 140
+
+full bots: 63 202 17 43 12 51 140
+bot 63 is now holding 2 and 7
+bot 63 gives low to bot 92 and high to bot 74
+
+full bots: 202 17 43 12 51 140 74 92
+bot 202 is now holding 59 and 67
+bot 202 gives low to bot 162 and high to bot 184
+
+full bots: 17 43 12 51 140 74 92 184
+bot 17 is now holding 47 and 73
+bot 17 gives low to bot 181 and high to bot 162
+
+full bots: 43 12 51 140 74 92 184 162
+bot 43 is now holding 31 and 41
+bot 43 gives low to bot 4 and high to bot 181
+
+full bots: 12 51 140 74 92 184 162 181
+bot 12 is now holding 19 and 29
+bot 12 gives low to bot 31 and high to bot 4
+
+full bots: 51 140 74 92 184 162 181 4
+bot 51 is now holding 17 and 43
+bot 51 gives low to bot 60 and high to bot 31
+
+full bots: 140 74 92 184 162 181 4 31
+bot 140 is now holding 11 and 13
+bot 140 gives low to bot 125 and high to bot 60
+
+full bots: 74 92 184 162 181 4 31 60
+bot 74 is now holding 3 and 7
+bot 74 gives low to bot 187 and high to bot 125
+
+full bots: 92 184 162 181 4 31 60 125
+bot 92 is now holding 2 and 5
+bot 92 gives low to bot 42 and high to bot 187
+
+full bots: 184 162 181 4 31 60 125 187 42
+bot 184 is now holding 67 and 71
+bot 184 gives low to bot 39 and high to bot 3
+
+full bots: 162 181 4 31 60 125 187 42
+bot 162 is now holding 59 and 73
+bot 162 gives low to bot 205 and high to bot 39
+
+full bots: 181 4 31 60 125 187 42 39
+bot 181 is now holding 41 and 47
+bot 181 gives low to bot 166 and high to bot 205
+
+full bots: 4 31 60 125 187 42 39 205
+bot 4 is now holding 29 and 31
+bot 4 gives low to bot 143 and high to bot 166
+
+full bots: 31 60 125 187 42 39 205 166
+bot 31 is now holding 19 and 43
+bot 31 gives low to bot 208 and high to bot 143
+
+full bots: 60 125 187 42 39 205 166 143
+bot 60 is now holding 13 and 17
+bot 60 gives low to bot 156 and high to bot 208
+
+full bots: 125 187 42 39 205 166 143 208
+bot 125 is now holding 7 and 11
+bot 125 gives low to bot 8 and high to bot 156
+
+full bots: 187 42 39 205 166 143 208 156
+bot 187 is now holding 3 and 5
+bot 187 gives low to bot 149 and high to bot 8
+
+full bots: 42 39 205 166 143 208 156 8
+bot 42 is now holding 2 and 23
+bot 42 gives low to bot 207 and high to bot 149
+
+full bots: 39 205 166 143 208 156 8 149
+bot 39 is now holding 67 and 73
+bot 39 gives low to bot 115 and high to bot 3
+
+full bots: 205 166 143 208 156 8 149 3
+bot 205 is now holding 47 and 59
+bot 205 gives low to bot 139 and high to bot 115
+
+full bots: 166 143 208 156 8 149 3 115
+bot 166 is now holding 31 and 41
+bot 166 gives low to bot 33 and high to bot 139
+
+full bots: 143 208 156 8 149 3 115 139
+bot 143 is now holding 29 and 43
+bot 143 gives low to bot 163 and high to bot 33
+full bots: 208 156 8 149 3 115 139 33
+bot 208 is now holding 17 and 19
+bot 208 gives low to bot 90 and high to bot 163
+
+full bots: 156 8 149 3 115 139 33 163
+bot 156 is now holding 11 and 13
+bot 156 gives low to bot 75 and high to bot 90
+
+full bots: 8 149 3 115 139 33 163 90
+bot 8 is now holding 5 and 7
+bot 8 gives low to bot 13 and high to bot 75
+
+full bots: 149 3 115 139 33 163 90 75
+bot 149 is now holding 3 and 23
+bot 149 gives low to bot 62 and high to bot 13
+
+full bots: 3 115 139 33 163 90 75 13
+bot 3 is now holding 71 and 73
+bot 3 gives low to bot 134 and high to bot 66
+
+full bots: 115 139 33 163 90 75 13
+bot 115 is now holding 59 and 67
+bot 115 gives low to bot 153 and high to bot 134
+
+full bots: 139 33 163 90 75 13 134
+bot 139 is now holding 41 and 47
+bot 139 gives low to bot 150 and high to bot 153
+
+full bots: 33 163 90 75 13 134 153
+bot 33 is now holding 31 and 43
+bot 33 gives low to bot 116 and high to bot 150
+
+full bots: 163 90 75 13 134 153 150
+bot 163 is now holding 19 and 29
+bot 163 gives low to bot 34 and high to bot 116
+
+full bots: 90 75 13 134 153 150 116
+bot 90 is now holding 13 and 17
+bot 90 gives low to bot 104 and high to bot 34
+
+full bots: 75 13 134 153 150 116 34
+bot 75 is now holding 7 and 11
+bot 75 gives low to bot 61 and high to bot 104
+
+full bots: 13 134 153 150 116 34 104
+bot 13 is now holding 5 and 23
+bot 13 gives low to bot 138 and high to bot 61
+
+full bots: 134 153 150 116 34 104 61
+bot 134 is now holding 67 and 71
+bot 134 gives low to bot 122 and high to bot 66
+
+full bots: 153 150 116 34 104 61 66
+bot 153 is now holding 47 and 59
+bot 153 gives low to bot 148 and high to bot 122
+
+full bots: 150 116 34 104 61 66 122
+bot 150 is now holding 41 and 43
+bot 150 gives low to bot 131 and high to bot 148
+
+full bots: 116 34 104 61 66 122 148
+bot 116 is now holding 29 and 31
+bot 116 gives low to bot 20 and high to bot 131
+
+full bots: 34 104 61 66 122 148 131
+bot 34 is now holding 17 and 19
+bot 34 gives low to bot 10 and high to bot 20
+
+full bots: 104 61 66 122 148 131 20
+bot 104 is now holding 11 and 13
+bot 104 gives low to bot 136 and high to bot 10
+
+full bots: 61 66 122 148 131 20 10
+bot 61 is now holding 7 and 23
+bot 61 gives low to bot 52 and high to bot 136
+
+full bots: 66 122 148 131 20 10 136
+bot 66 is now holding 71 and 73
+bot 66 gives low to bot 1 and high to bot 209
+
+full bots: 122 148 131 20 10 136
+bot 122 is now holding 59 and 67
+bot 122 gives low to bot 137 and high to bot 1
+
+full bots: 148 131 20 10 136 1
+bot 148 is now holding 43 and 47
+bot 148 gives low to bot 204 and high to bot 137
+
+full bots: 131 20 10 136 1 137
+bot 131 is now holding 31 and 41
+bot 131 gives low to bot 73 and high to bot 204
+
+full bots: 20 10 136 1 137 204
+bot 20 is now holding 19 and 29
+bot 20 gives low to bot 130 and high to bot 73
+
+full bots: 10 136 1 137 204 73
+bot 10 is now holding 13 and 17
+bot 10 gives low to bot 158 and high to bot 130
+
+full bots: 136 1 137 204 73 130
+bot 136 is now holding 11 and 23
+bot 136 gives low to bot 28 and high to bot 158
+
+full bots: 1 137 204 73 130 158
+bot 1 is now holding 67 and 71
+bot 1 gives low to bot 18 and high to bot 209
+
+full bots: 137 204 73 130 158 209
+bot 137 is now holding 47 and 59
+bot 137 gives low to bot 36 and high to bot 18
+
+full bots: 204 73 130 158 209 18
+bot 204 is now holding 41 and 43
+bot 204 gives low to bot 112 and high to bot 36
+
+full bots: 73 130 158 209 18 36
+bot 73 is now holding 29 and 31
+bot 73 gives low to bot 105 and high to bot 112
+
+full bots: 130 158 209 18 36 112
+bot 130 is now holding 17 and 19
+bot 130 gives low to bot 110 and high to bot 105
+
+full bots: 158 209 18 36 112 105
+bot 158 is now holding 13 and 23
+bot 158 gives low to bot 102 and high to bot 110
+
+full bots: 209 18 36 112 105 110
+bot 209 is now holding 71 and 73
+bot 209 gives low to bot 168 and high to bot 26
+
+full bots: 18 36 112 105 110
+bot 18 is now holding 59 and 67
+bot 18 gives low to bot 121 and high to bot 168
+
+full bots: 36 112 105 110 168
+bot 36 is now holding 43 and 47
+bot 36 gives low to bot 118 and high to bot 121
+
+full bots: 112 105 110 168 121
+bot 112 is now holding 31 and 41
+bot 112 gives low to bot 19 and high to bot 118
+
+full bots: 105 110 168 121 118
+bot 105 is now holding 19 and 29
+bot 105 gives low to bot 89 and high to bot 19
+
+full bots: 110 168 121 118 19
+bot 110 is now holding 17 and 23
+bot 110 gives low to bot 117 and high to bot 89
+
+full bots: 168 121 118 19 89
+bot 168 is now holding 67 and 71
+bot 168 gives low to bot 126 and high to bot 26
+
+full bots: 121 118 19 89 26
+bot 121 is now holding 47 and 59
+bot 121 gives low to bot 55 and high to bot 126
+
+full bots: 118 19 89 26 126
+bot 118 is now holding 41 and 43
+bot 118 gives low to bot 164 and high to bot 55
+
+full bots: 19 89 26 126 55
+bot 19 is now holding 29 and 31
+bot 19 gives low to bot 2 and high to bot 164
+
+full bots: 89 26 126 55 164
+bot 89 is now holding 19 and 23
+bot 89 gives low to bot 72 and high to bot 2
+
+full bots: 26 126 55 164 2
+bot 26 is now holding 71 and 73
+bot 26 gives low to bot 56 and high to bot 147
+
+full bots: 126 55 164 2
+bot 126 is now holding 59 and 67
+bot 126 gives low to bot 193 and high to bot 56
+
+full bots: 55 164 2 56
+bot 55 is now holding 43 and 47
+bot 55 gives low to bot 203 and high to bot 193
+
+full bots: 164 2 56 193
+bot 164 is now holding 31 and 41
+bot 164 gives low to bot 91 and high to bot 203
+
+full bots: 2 56 193 203
+bot 2 is now holding 23 and 29
+bot 2 gives low to bot 160 and high to bot 91
+
+full bots: 56 193 203 91
+bot 56 is now holding 67 and 71
+bot 56 gives low to bot 98 and high to bot 147
+
+full bots: 193 203 91 147
+bot 193 is now holding 47 and 59
+bot 193 gives low to bot 64 and high to bot 98
+
+full bots: 203 91 147 98
+bot 203 is now holding 41 and 43
+bot 203 gives low to bot 172 and high to bot 64
+
+full bots: 91 147 98 64
+bot 91 is now holding 29 and 31
+bot 91 gives low to bot 151 and high to bot 172
+
+full bots: 147 98 64 172
+bot 147 is now holding 71 and 73
+bot 147 gives low to bot 45 and high to bot 95
+
+full bots: 98 64 172
+bot 98 is now holding 59 and 67
+bot 98 gives low to bot 48 and high to bot 45
+
+full bots: 64 172 45
+bot 64 is now holding 43 and 47
+bot 64 gives low to bot 123 and high to bot 48
+
+full bots: 172 45 48
+bot 172 is now holding 31 and 41
+bot 172 gives low to bot 79 and high to bot 123
+
+full bots: 45 48 123
+bot 45 is now holding 67 and 71
+bot 45 gives low to bot 58 and high to bot 95
+
+full bots: 48 123 95
+bot 48 is now holding 47 and 59
+bot 48 gives low to bot 107 and high to bot 58
+
+full bots: 123 95 58
+bot 123 is now holding 41 and 43
+bot 123 gives low to bot 40 and high to bot 107
+
+full bots: 95 58 107
+bot 95 is now holding 71 and 73
+bot 95 gives low to bot 101 and high to bot 100
+
+full bots: 58 107
+bot 58 is now holding 59 and 67
+bot 58 gives low to bot 15 and high to bot 101
+
+full bots: 107 101
+bot 107 is now holding 43 and 47
+bot 107 gives low to bot 124 and high to bot 15
+
+full bots: 101 15
+bot 101 is now holding 67 and 71
+bot 101 gives low to bot 188 and high to bot 100
+
+full bots: 15 100
+bot 15 is now holding 47 and 59
+bot 15 gives low to bot 145 and high to bot 188
+
+full bots: 100 188
+bot 100 is now holding 71 and 73
+bot 100 gives low to bot 38 and high to bot 59
+
+full bots: 188
+bot 188 is now holding 59 and 67
+bot 188 gives low to bot 128 and high to bot 38
+
+full bots: 38
+bot 38 is now holding 67 and 71
+bot 38 gives low to bot 182 and high to bot 59
+
+full bots: 59
+bot 59 is now holding 71 and 73
+bot 59 gives low to bot 176 and high to bot 120
+
+value 53 goes to bot 207
+
+full bots: 207
+bot 207 is now holding 2 and 53
+bot 207 gives low to bot 37 and high to bot 62
+
+full bots: 62 37
+bot 62 is now holding 3 and 53
+bot 62 gives low to bot 157 and high to bot 138
+
+full bots: 37 138
+bot 37 is now holding 2 and 37
+bot 37 gives low to bot 29 and high to bot 157
+
+full bots: 138 157 29
+bot 138 is now holding 5 and 53
+bot 138 gives low to bot 180 and high to bot 52
+
+full bots: 157 29 52
+bot 157 is now holding 3 and 37
+bot 157 gives low to bot 16 and high to bot 180
+
+full bots: 29 52 180
+bot 29 is now holding 2 and 61
+bot 29 gives low to output 0 and high to bot 16
+
+full bots: 52 180 16
+bot 52 is now holding 7 and 53
+bot 52 gives low to bot 27 and high to bot 28
+
+full bots: 180 16 28
+bot 180 is now holding 5 and 37
+bot 180 gives low to bot 189 and high to bot 27
+
+full bots: 16 28 27
+bot 16 is now holding 3 and 61
+bot 16 gives low to output 20 and high to bot 189
+
+full bots: 28 27 189
+bot 28 is now holding 11 and 53
+bot 28 gives low to bot 46 and high to bot 102
+
+full bots: 27 189 102
+bot 27 is now holding 7 and 37
+bot 27 gives low to bot 108 and high to bot 46
+
+full bots: 189 102 46
+bot 189 is now holding 5 and 61
+bot 189 gives low to output 7 and high to bot 108
+
+full bots: 102 46 108
+bot 102 is now holding 13 and 53
+bot 102 gives low to bot 195 and high to bot 117
+
+full bots: 46 108 117
+bot 46 is now holding 11 and 37
+bot 46 gives low to bot 175 and high to bot 195
+
+full bots: 108 117 195
+bot 108 is now holding 7 and 61
+bot 108 gives low to output 11 and high to bot 175
+
+full bots: 117 195 175
+bot 117 is now holding 17 and 53
+bot 117 gives low to bot 183 and high to bot 72
+
+full bots: 195 175 72
+bot 195 is now holding 13 and 37
+bot 195 gives low to bot 133 and high to bot 183
+
+full bots: 175 72 183
+bot 175 is now holding 11 and 61
+bot 175 gives low to output 17 and high to bot 133
+
+full bots: 72 183 133
+bot 72 is now holding 19 and 53
+bot 72 gives low to bot 65 and high to bot 160
+
+full bots: 183 133 160
+bot 183 is now holding 17 and 37
+bot 183 gives low to bot 47 and high to bot 65
+
+full bots: 133 160 65
+bot 133 is now holding 13 and 61
+bot 133 gives low to output 4 and high to bot 47
+
+full bots: 160 65 47
+bot 160 is now holding 23 and 53
+bot 160 gives low to bot 194 and high to bot 151
+
+full bots: 65 47 151
+bot 65 is now holding 19 and 37
+bot 65 gives low to bot 152 and high to bot 194
+
+full bots: 47 151 194
+bot 47 is now holding 17 and 61
+bot 47 gives low to output 19 and high to bot 152
+
+full bots: 151 194 152
+bot 151 is now holding 29 and 53
+bot 151 gives low to bot 82 and high to bot 79
+
+full bots: 194 152 79
+bot 194 is now holding 23 and 37
+bot 194 gives low to bot 190 and high to bot 82
+
+full bots: 152 79 82
+bot 152 is now holding 19 and 61
+bot 152 gives low to output 8 and high to bot 190
+
+full bots: 79 82 190
+bot 79 is now holding 31 and 53
+bot 79 gives low to bot 22 and high to bot 40
+
+full bots: 82 190 40
+bot 82 is now holding 29 and 37
+bot 82 gives low to bot 146 and high to bot 22
+
+full bots: 190 40 22
+bot 190 is now holding 23 and 61
+bot 190 gives low to output 18 and high to bot 146
+
+full bots: 40 22 146
+bot 40 is now holding 41 and 53
+bot 40 gives low to bot 69 and high to bot 124
+
+full bots: 22 146 124
+bot 22 is now holding 31 and 37
+bot 22 gives low to bot 53 and high to bot 69
+
+full bots: 146 124 69
+bot 146 is now holding 29 and 61
+bot 146 gives low to output 13 and high to bot 53
+
+full bots: 124 69 53
+bot 124 is now holding 43 and 53
+bot 124 gives low to bot 0 and high to bot 145
+
+full bots: 69 53 145
+bot 69 is now holding 37 and 41
+bot 69 gives low to bot 142 and high to bot 0
+
+full bots: 53 145 0
+bot 53 is now holding 31 and 61
+bot 53 gives low to output 2 and high to bot 142
+
+full bots: 145 0 142
+bot 145 is now holding 47 and 53
+bot 145 gives low to bot 103 and high to bot 128
+
+full bots: 0 142 128
+bot 0 is now holding 41 and 43
+bot 0 gives low to bot 35 and high to bot 103
+
+full bots: 142 128 103
+bot 142 is now holding 37 and 61
+bot 142 gives low to output 6 and high to bot 35
+
+full bots: 128 103 35
+bot 128 is now holding 53 and 59
+bot 128 gives low to bot 129 and high to bot 182
+
+full bots: 103 35 182
+bot 103 is now holding 43 and 47
+bot 103 gives low to bot 50 and high to bot 129
+
+full bots: 35 182 129
+bot 35 is now holding 41 and 61
+bot 35 gives low to output 3 and high to bot 50
+
+full bots: 182 129 50
+bot 182 is now holding 59 and 67
+bot 182 gives low to bot 49 and high to bot 176
+
+full bots: 129 50 176
+bot 129 is now holding 47 and 53
+bot 129 gives low to bot 127 and high to bot 49
+
+full bots: 50 176 49
+bot 50 is now holding 43 and 61
+bot 50 gives low to output 1 and high to bot 127
+
+full bots: 176 49 127
+bot 176 is now holding 67 and 71
+bot 176 gives low to bot 57 and high to bot 120
+
+full bots: 49 127 120
+bot 49 is now holding 53 and 59
+bot 49 gives low to bot 11 and high to bot 57
+
+full bots: 127 120 57
+bot 127 is now holding 47 and 61
+bot 127 gives low to output 5 and high to bot 11
+
+full bots: 120 57 11
+bot 120 is now holding 71 and 73
+bot 120 gives low to bot 179 and high to bot 71
+
+full bots: 57 11
+bot 57 is now holding 59 and 67
+bot 57 gives low to bot 113 and high to bot 179
+
+full bots: 11 179
+bot 11 is now holding 53 and 61
+bot 11 gives low to output 16 and high to bot 113
+
+full bots: 179 113
+bot 179 is now holding 67 and 71
+bot 179 gives low to bot 161 and high to bot 71
+
+full bots: 113 71
+bot 113 is now holding 59 and 61
+bot 113 gives low to output 9 and high to bot 161
+
+full bots: 71 161
+bot 71 is now holding 71 and 73
+bot 71 gives low to bot 185 and high to bot 54
+
+full bots: 161
+bot 161 is now holding 61 and 67
+bot 161 gives low to output 14 and high to bot 185
+
+full bots: 185
+bot 185 is now holding 67 and 71
+bot 185 gives low to output 15 and high to bot 54
+
+full bots: 54
+bot 54 is now holding 71 and 73
+bot 54 gives low to output 12 and high to output 10
+
